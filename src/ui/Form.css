@@ -1,5 +1,5 @@
 input {
-  padding: 0.4rem 1rem;
+  padding: 0.7rem 1rem;
   border-radius: 0.25rem;
   border-color: #fff;
   border: 0 solid #fff;
@@ -9,12 +9,12 @@ input {
 
 .button-main {
   background-color: transparent;
-  border: 2px solid transparent;
+  border: 1px solid transparent;
   cursor: pointer;
   border-radius: 0.3rem;
   font-size: 1rem;
   font-weight: 400;
-  padding: 0.4rem 1rem;
+  padding: 0.6rem 0.6rem;
 }
 .btn-search {
   border-color: #77b300;
